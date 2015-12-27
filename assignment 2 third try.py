@@ -1,5 +1,4 @@
 ##this is a program in turtle that will draw a dart board
-##By Cindy Gao Student Number: 10026799
 
 
 from turtle import *
